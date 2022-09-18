@@ -9,7 +9,7 @@
 }
 
 .jumbotron {
-    background-image: url("/Images/vectezy-bacteria.jpg");
+    background-image: url("https://github.com/ladywyntir/belly-button-biodiversity/blob/main/Images/vectezy-bacteria.jpg");
     background-size: 40%;
     text-shadow: 4px 4px 2px pink;
     color: navy;
