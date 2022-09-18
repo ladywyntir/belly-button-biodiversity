@@ -20,8 +20,8 @@ Create a gauge chart to plot the weekly washing frequency of a subject. The gaug
 
 ---
 
-<img src="marj_dashboard.png">
-
+## Dashboard Snapshot
+<img src="https://github.com/ladywyntir/belly-button-biodiversity/blob/main/Images/marj_dashboard.png">
 
 ## Code Theory
 1. Copied over the files/folders from the starter code folder.
@@ -34,7 +34,7 @@ Create a gauge chart to plot the weekly washing frequency of a subject. The gaug
 4. In the app.js file, I had to create functions to pull the data from the json file using d3.json.
 5. The first function was for the data pull and chart drawings.
 
-    <img src="d3_json_example.png">
+    <img src="https://github.com/ladywyntir/belly-button-biodiversity/blob/main/Images/D3_json_example.png">
 
 6. To check my work along the way, I used console.log. This was helpful when i started up the Live Server and opened the developer console. Adding the point at which each log was coming from, like the example above, gave me a great way to troubleshoot where I had issues.  The Developer Console also gives the line number, but it's easier to find if you throw in the function name.
 7. Next up was filling variables with the samples information and with a filtered view which said: pull the data if the sample ID was equal to the selection the user made on the website.
