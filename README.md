@@ -23,6 +23,8 @@ Create a gauge chart to plot the weekly washing frequency of a subject. The gaug
 ## Dashboard Snapshot
 <img src="https://github.com/ladywyntir/belly-button-biodiversity/blob/main/Images/marj_dashboard.png">
 
+Dashboard: https://ladywyntir.github.io/belly-button-biodiversity/
+
 ## Code Theory
 1. Copied over the files/folders from the starter code folder.
 2. Determined what I'd need for this to work: 
@@ -57,6 +59,7 @@ Create a gauge chart to plot the weekly washing frequency of a subject. The gaug
     * had lots of fun with the colors.
     * Used Plotly to draw the chart
 15. The final functions would be initialized and called the functions from up above. 
+16. Pushed the changes to my GitHub repo and published the page, https://ladywyntir.github.io/belly-button-biodiversity/.
 
 ## Troubleshooting 
 * Semicolons, colons, and commas can really screw up your code if they're not in the right place.
